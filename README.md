@@ -16,7 +16,6 @@ Tool tự động cho Onmyoji (bản Steam, `Client.exe`) trên Windows.
 ## Lưu ý
 - Đếm vé Phá kết giới cá nhân / lượt hội dùng OCR: cần cài [Tesseract OCR](https://github.com/UB-Mannheim/tesseract/wiki) (`C:\Program Files\Tesseract-OCR`).
 - Cài đặt (`gui_windows.json`) và log (`logs/`) được ghi cạnh file `.exe`.
-- Một số ảnh mẫu lấy từ "Onmyoji Tool" — xem [NOTICE.txt](NOTICE.txt) (PolyForm Noncommercial: chỉ dùng phi thương mại).
 
 ## Support & Donate
 - Ingame: **Zonew** — ID: **9033187**
