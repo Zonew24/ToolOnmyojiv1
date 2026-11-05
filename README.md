@@ -2,7 +2,7 @@
 
 Tool tự động cho Onmyoji (bản Steam, `Client.exe`) trên Windows.
 
-**Tải:** vào [Releases](../../releases/latest) → tải `OnmyojiTool.exe` → chạy (không cần cài Python).
+**Tải:** vào [Releases](../../releases/latest) → tải `OnmyojiTool.exe` (~107 MB) → chạy. Không cần cài Python hay OCR.
 
 ## Chức năng
 - **Phá kết giới**: cá nhân (9 thẻ, Refresh) và hội (danh sách 2 cột, 6 lượt hồi 4p30s); tuỳ chọn đánh lại khi thua.
@@ -14,7 +14,7 @@ Tool tự động cho Onmyoji (bản Steam, `Client.exe`) trên Windows.
 - Nhiều cửa sổ game chạy song song; click bằng PostMessage (không chiếm chuột).
 
 ## Lưu ý
-- Đếm vé Phá kết giới cá nhân / lượt hội dùng OCR: cần cài [Tesseract OCR](https://github.com/UB-Mannheim/tesseract/wiki) (`C:\Program Files\Tesseract-OCR`).
+- Đọc số vé Phá kết giới / lượt hội bằng OCR (Tesseract) — **đã kèm sẵn trong exe**, không cần cài thêm gì.
 - Cài đặt (`gui_windows.json`) và log (`logs/`) được ghi cạnh file `.exe`.
 
 ## Support & Donate
