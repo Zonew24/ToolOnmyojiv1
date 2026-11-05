@@ -1,0 +1,14 @@
+Template attribution
+====================
+
+Các ảnh template sau trong templates/ được lấy từ "Onmyoji Tool" v3.21:
+  section.png, start.png, refresh.PNG, exit.png, finished1.png, finished2.png,
+  failed.png, ok.png, noPasses.png, cooldown.png, leaveBattle.png, raidEntry.png
+
+Required Notice: Copyright 2026 A y u (https://github.com/Long173/onmyoji-auto-releases)
+
+Dùng theo PolyForm Noncommercial License 1.0.0
+(https://polyformproject.org/licenses/noncommercial/1.0.0) — chỉ cho mục đích
+phi thương mại / cá nhân. Không bán, không cho thuê.
+
+in_battle.png và ready.png do package này tự cắt từ ảnh chụp game.
